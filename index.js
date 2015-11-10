@@ -6,8 +6,8 @@
  Created by SS Virk on 30 Sep, 2015.
  */
 
-var _helper     = require('extra/helper');
-var _state      = require('extra/state');
+var _helper     = require('./extra/helper');
+var _state      = require('./extra/state');
 var _qParser    = require('query-string');
 
 var router  = {
