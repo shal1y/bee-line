@@ -1,19 +1,23 @@
 {
-  "name": "bee-line",
-  "version": "0.1.0",
-  "description": "A simple hash based router which supports query strings",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
+	"name": "bee-line",
+	"version": "0.1.0",
+	"description": "A simple hash based router which supports query strings",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
     "router",
     "hash",
     "query-string"
   ],
-  "author": "SS Virk",
-  "license": "MIT",
-  "dependencies": {
-    "query-string": "~3.0.0"
-  }
+	"author": "SS Virk",
+	"license": "MIT",
+	"dependencies": {
+		"query-string": "~3.0.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shal1y/bee-line"
+	}
 }
