@@ -27,7 +27,7 @@ beeline.register(function (page, params, query) {
     console.log(params);    // Object with parameters
     console.log(query); //  object describing the query params eg: ?name=value&name2=val2 => {name:value, name2:val2}
 
-    // This is where you'd do your matic.
+    // This is where you'd do your magic.
 });
 
 
