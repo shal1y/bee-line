@@ -41,6 +41,10 @@ var router  = {
 	},
 
 
+	redispatch: function() {
+		handleHashChange();
+	},
+
 
 
 	addRoutes: function(routes) {
